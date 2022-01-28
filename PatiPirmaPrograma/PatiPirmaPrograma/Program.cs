@@ -11,6 +11,7 @@ namespace PatiPirmaPrograma
         static void Main(string[] args)
         {
             Console.WriteLine("Myliu savo mokytoją");
+            Console.WriteLine("as irgi tave");
             Console.ReadLine();
         }
     }
