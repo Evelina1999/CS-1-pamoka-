@@ -10,6 +10,8 @@ namespace DviejuSkaiciuSuma
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(17 + 23);
+            Console.ReadLine();
         }
     }
 }
