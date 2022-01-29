@@ -10,6 +10,12 @@ namespace Dalyba
     {
         static void Main(string[] args)
         {
+            double skaicius1 = 24;
+            double skaicius2 = 5;
+            double rezultatas = skaicius1 / skaicius2;
+
+            Console.WriteLine(rezultatas);
+            Console.ReadLine(); 
         }
     }
 }
