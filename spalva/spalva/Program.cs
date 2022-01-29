@@ -10,6 +10,10 @@ namespace spalva
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Kokia tavo megstamiausia spalva?");
+            Console.ReadLine();
+            Console.WriteLine("Mano irgi!");
+            Console.ReadLine();
         }
     }
 }
