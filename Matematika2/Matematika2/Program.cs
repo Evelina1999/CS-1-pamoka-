@@ -10,6 +10,15 @@ namespace Matematika2
     {
         static void Main(string[] args)
         {
+            double skaicius1 = Convert.ToDouble(Console.ReadLine());
+            double skaicius2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine(skaicius1 * skaicius2);
+            Console.WriteLine(skaicius1 / skaicius2);
+            Console.WriteLine(skaicius1 + skaicius2);
+            Console.WriteLine(skaicius1 - skaicius2);
+            Console.ReadLine();
+
         }
     }
 }
